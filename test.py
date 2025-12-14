@@ -1,0 +1,7 @@
+print("Hello")
+a = int(input("enter any number : "))
+if a == 22 :
+    print("haoo")
+
+
+    
